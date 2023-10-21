@@ -1,5 +1,7 @@
 # Своя Игра
 
+Запуск - *main/Jeopardy.exe*
+
 
 ![image](https://github.com/DonnyTheTalker/Jeopardy_PyQt5/assets/62959945/68d3459b-62e8-4f65-a5bb-a9da49fb6ef3)
 
